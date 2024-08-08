@@ -1,0 +1,4 @@
+{
+  "constr": "Server = LAPTOP-U24EHSHO\\SQLEXPRESS01 ; Database = DigitalCurrency ; Integrated Security = SSPI ; TrustServerCertificate = True;"
+
+}
